@@ -1,0 +1,6 @@
+{
+"model_name":"raptor-walking-model",
+"learn_rate":0.00067,
+"episodes":920,
+"batch_size":64
+}

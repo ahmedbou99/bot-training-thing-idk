@@ -1,0 +1,2 @@
+class NameNotFoundException(Exception):
+    pass

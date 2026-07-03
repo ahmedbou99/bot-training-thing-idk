@@ -1,0 +1,2 @@
+class InvalidEpisodesException(Exception):
+    pass

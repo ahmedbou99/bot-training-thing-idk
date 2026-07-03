@@ -1,0 +1,2 @@
+class InvalidBatchCntException(Exception):
+    pass

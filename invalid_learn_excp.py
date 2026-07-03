@@ -1,0 +1,2 @@
+class InvalidLearnException(Exception):
+    pass
